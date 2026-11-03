@@ -1,0 +1,32 @@
+{
+  "generatedAt": "2026-11-02T19:07:55.101178+00:00",
+  "sourceCount": 3,
+  "duplicateGroups": 1,
+  "completed": 2,
+  "skipped": 1,
+  "originalsUnchanged": true,
+  "copiesByteIdentical": true,
+  "actions": [
+    {
+      "source": "Source/IMG_20230714_120000.jpg",
+      "destination": "Archive/2023/07/IMG_20230714_120000.jpg",
+      "status": "Completed",
+      "dateSource": "FileName",
+      "sha256": "2E6FDEF21748AE190CAA36ECCC8F95FEBA98BCD68FCA09DF8C12352EA2D989A7"
+    },
+    {
+      "source": "Source/IMG_20230714_120001.jpg",
+      "destination": "Archive/Dubletten/2023/07/IMG_20230714_120001.jpg",
+      "status": "Skipped",
+      "dateSource": "FileName",
+      "sha256": "2E6FDEF21748AE190CAA36ECCC8F95FEBA98BCD68FCA09DF8C12352EA2D989A7"
+    },
+    {
+      "source": "Source/IMG_20240502_090000.jpg",
+      "destination": "Archive/2024/05/IMG_20240502_090000.jpg",
+      "status": "Completed",
+      "dateSource": "FileName",
+      "sha256": "569F8FBBCCC8D9542A7673DC4F9DAF4A406094190AC87862945FDF08E08BB387"
+    }
+  ]
+}
